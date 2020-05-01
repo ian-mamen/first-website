@@ -1,0 +1,15 @@
+p{
+  color: darkblue;
+  font-style: italic;
+}
+body{
+  background-color: violet;
+}
+ol{
+  font-style: oblique;
+  color: grey;
+}
+ul{
+  font-style: italic;
+  color: grey;
+}
